@@ -21,5 +21,11 @@ Tools practiced:
 - Burp Suite
 - Metasploit
 
+## Labs Covered
+
+- Linux Fundamentals
+- File Management & Permissions
+- Reconnaissance & OSINT
+
 Goal:
 Build strong practical cybersecurity skills and document my journey toward becoming a Security Analyst / Penetration Tester.
