@@ -1,151 +1,148 @@
-# 🚀 Chinmay M – Cybersecurity Portfolio  
+# 🛡️ Chinmay M | Cybersecurity Portfolio
 
-🎓 Final Year B.Tech (Cybersecurity)  
-🛡️ SOC Analyst Intern | Offensive & Defensive Security Enthusiast  
+🎓 Final Year B.Tech – Cybersecurity  
+🛡️ SOC Analyst Intern  
+💻 Offensive & Defensive Security Practitioner  
 📍 Bangalore, India  
 
 ---
 
-## 👨‍💻 About Me
+## 🔥 Professional Profile
 
-I am a cybersecurity student actively building hands-on practical skills in:
+Cybersecurity student with structured hands-on experience in:
 
-- Network Scanning & Enumeration  
-- OSINT & Reconnaissance  
-- Linux System Administration  
-- Vulnerability Assessment  
-- SOC Analysis & Alert Handling  
-- Penetration Testing Fundamentals  
+- Network reconnaissance & enumeration  
+- Vulnerability assessment & scanning  
+- OSINT & attack surface mapping  
+- Linux system administration  
+- SOC alert analysis & reporting  
+- Exploitation fundamentals using Metasploit  
 
-Currently preparing for **CEH Master Certification** while completing practical labs on TryHackMe and building a structured home lab environment.
+Currently preparing for **CEH Master Certification** while building a documented home lab and completing structured offensive + defensive security labs.
 
----
-
-# 🧪 Hands-On Lab Work
-
-## 🐧 Linux Labs
-Practical Linux administration and command-line operations.
-
-**Topics Covered:**
-- File & Directory Management
-- Permissions & `chmod`
-- Process Execution
-- Shell Basics
-- Script Execution
-
-📂 Folder: `Linux-Labs`
+This repository represents practical cybersecurity capability — not just coursework.
 
 ---
 
-## 🌐 Networking Labs
+# 🧠 Technical Skill Matrix
 
-Foundational networking concepts combined with active scanning practice.
+### 🌐 Networking & Enumeration
+- TCP/IP, OSI Model
+- Port Scanning & Service Detection
+- Host Discovery (ICMP, ARP)
+- Firewall Evasion Basics
+- Scan Analysis & Interpretation
 
-**Topics Covered:**
-- Networking Basics (OSI, TCP/IP, Ports)
-- Host Discovery (ping, fping, netdiscover)
-- Nmap Scan Techniques
-- Service & Version Detection
-- Scan Result Analysis
-- Port Enumeration
-
-📂 Folder: `Networking-Labs`
+Tools:
+`Nmap` `Netdiscover` `fping` `Wireshark`
 
 ---
 
-## 🔎 Recon & OSINT
+### 🔎 OSINT & Reconnaissance
+- Subdomain Enumeration
+- Email Harvesting
+- Metadata Collection
+- Google Dorking Techniques
+- WHOIS & DNS Investigation
 
-Information gathering techniques using industry tools.
+Tools:
+`theHarvester` `Sublist3r` `Infoga`
 
-**Tools Practiced:**
-- Google Dorking
-- theHarvester
-- Sublist3r
-- Infoga
-- WHOIS
-- Traceroute
-
-Each lab includes:
+Each tool documented with:
 - Purpose  
 - Commands Used  
 - Data Collected  
 - Defensive Mitigation  
 
-📂 Folder: `Recon-OSINT`
+---
+
+### 🐧 Linux & System Operations
+- File & Directory Management
+- Permissions & Ownership
+- Process Execution
+- Shell Interaction
+- Script Execution
+- Environment Configuration
 
 ---
 
-## 🛡️ TryHackMe Progress
-
-Completed 13+ structured labs across:
-
-- Networking Fundamentals  
-- Nmap Deep Dive  
-- Offensive Security Intro  
-- Defensive Security Intro  
-- SOC L1 Alert Reporting  
-- Red Team Fundamentals  
-- Junior Security Analyst Role  
-- Metasploit Introduction  
-
-📂 Folder: `TryHackMe`
+### 💣 Exploitation & Post-Exploitation
+- Metasploit Framework
+- Payload Selection
+- Exploit Modules
+- Session Handling
+- Basic Post-Exploitation Enumeration
 
 ---
 
-## 💣 Exploitation & Post-Exploitation
-
-Practical exposure to:
-
-- Metasploit Framework  
-- Exploitation Workflow  
-- Payload Handling  
-- Meterpreter Sessions  
-- Basic Enumeration After Access  
+### 🛡️ Blue Team & SOC Fundamentals
+- Alert Triage
+- Incident Reporting
+- Log Analysis Basics
+- Understanding Attack Lifecycle
+- Defensive Security Concepts
 
 ---
 
-# 🧰 Tools Practiced
+# 🧪 Practical Lab Work
 
-- Nmap  
-- Metasploit  
-- theHarvester  
-- Sublist3r  
-- Infoga  
-- Wireshark  
-- Burp Suite  
-- Netdiscover  
-- Angry IP Scanner  
+## 📂 Linux-Labs
+Structured command-line and system operation practice.
 
----
+## 📂 Networking-Labs
+Host discovery, scan techniques, enumeration, analysis.
 
-# 🧠 Current Focus (2026 Hiring Preparation)
+## 📂 Recon-OSINT
+OSINT tool usage with defensive mitigation understanding.
 
-- CEH Master Certification  
-- 50+ HackTheBox Machines (Planned)  
-- Home SOC Lab Implementation  
-- Writing Structured CTF Writeups  
-- Blue Team Log Analysis & Alert Triage  
-
----
-
-# 🎯 Career Objective
-
-Seeking entry-level roles in:
-
-- SOC Analyst (L1)  
-- Junior Security Analyst  
-- VAPT Intern  
-- Penetration Testing Intern  
-
-Focused on building demonstrable hands-on cybersecurity capability through consistent lab work and documentation.
+## 📂 TryHackMe
+13+ completed labs across:
+- Networking Fundamentals
+- Nmap Deep Dive
+- Red Team Basics
+- Defensive Security Intro
+- SOC L1 Alert Reporting
+- Junior Security Analyst
+- Metasploit Introduction
 
 ---
 
-# 📬 Connect With Me
+# 🚀 Active Development Plan (2026 Hiring Goal)
 
-🔗 LinkedIn: https://linkedin.com/in/m-chinmay-25689b256  
-💻 GitHub: https://github.com/chinmay-spec  
+- ✅ CEH Master Certification (In Progress)
+- 🔜 50+ HackTheBox Machines
+- 🔜 Home SOC Lab with Log Monitoring
+- 🔜 Advanced Web Application Testing
+- 🔜 CTF Writeups with Professional Documentation
+- 🔜 Splunk / SIEM Practical Implementation
 
 ---
 
-⭐ This repository documents my structured journey toward becoming a professional cybersecurity analyst.
+# 📊 What Differentiates Me
+
+✔ Offensive + Defensive balance  
+✔ Structured documentation of labs  
+✔ Practical tool usage, not theory-only  
+✔ Continuous certification + lab alignment  
+✔ Publicly visible technical growth  
+
+---
+
+# 🎯 Target Roles
+
+- SOC Analyst (L1)
+- Junior Security Analyst
+- VAPT Intern
+- Penetration Testing Intern
+- Security Operations Trainee
+
+---
+
+# 📬 Connect
+
+LinkedIn: https://linkedin.com/in/m-chinmay-25689b256  
+GitHub: https://github.com/chinmay-spec  
+
+---
+
+⭐ This repository documents my journey toward becoming a professional cybersecurity analyst through hands-on implementation, structured learning, and continuous improvement.
